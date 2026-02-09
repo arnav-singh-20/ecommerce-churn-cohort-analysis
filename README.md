@@ -1,3 +1,8 @@
+## 🔍 TL;DR
+- Cleaned and analyzed 540K+ e-commerce transactions using SQL  
+- Identified early-stage customer churn as the primary driver of revenue stagnation  
+- Performed cohort-based retention analysis to uncover declining retention in newer user cohorts  
+
 # ecommerce-churn-cohort-analysis
 To analyze customer purchasing behavior and identify revenue stagnation drivers by examining:  customer churn  retention patterns  cohort-wise behavior using SQL-driven analytics on transactional e-commerce data.
 # Customer Churn & Cohort Analysis using SQL
