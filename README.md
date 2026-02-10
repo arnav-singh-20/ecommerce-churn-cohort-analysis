@@ -124,6 +124,18 @@ Retention was calculated as a percentage of the original cohort size to ensure f
 
 ## 📎 Repository Contents
 - `/sql` – SQL scripts for cleaning, modeling, churn, and cohort analysis  
-- `/insights` – Summary of findings and interpretations  
+- `/insights` – Summary of findings and interpretations
+
+- ## 🧪 How to Reproduce
+1. Clone the repo  
+2. Import the CSV into SQLite (DB Browser)  
+3. Run SQL scripts in order:
+   - 01_data_cleaning.sql  
+   - 02_user_modeling.sql  
+   - 03_core_metrics.sql  
+   - 04_churn_analysis.sql  
+   - 05_cohort_analysis.sql
+4. Review outputs in DB Browser or export tables as CSV
+
 
 
